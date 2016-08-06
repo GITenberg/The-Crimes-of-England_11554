@@ -1,0 +1,34 @@
+_repo: The-Crimes-of-England_11554
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert Keith
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+description: Love is not blind...love is vigilant." An outspoken patriot, G. K. Chesterton
+  criticized his country as he thought necessary. In this 1915 collection of pieces
+  written while he toiled for the War Propaganda Bureau, he takes England to task
+  for tolerating Germany's pre-war actions, and also for its treatment of the Irish.
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11554'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Irish question'
+- !lcsh 'Germany -- Relations -- Great Britain'
+- !lcsh 'World War, 1914-1918'
+- !lcsh 'Great Britain -- Relations -- Germany'
+- !lcc 'DA'
+- GITenberg
+title: The Crimes of England
+url: http://www.gutenberg.org/ebooks/11554
